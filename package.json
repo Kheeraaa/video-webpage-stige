@@ -1,0 +1,19 @@
+{
+  "name": "video-webpage-stige",
+  "version": "1.0.0",
+  "description": "",
+  "main": "stige.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kheeraaa/video-webpage-stige.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kheeraaa/video-webpage-stige/issues"
+  },
+  "homepage": "https://github.com/Kheeraaa/video-webpage-stige#readme"
+}
